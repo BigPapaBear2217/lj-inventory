@@ -2,12 +2,10 @@ Join my Discord for updates, support, and special early testing!
 <br>
 https://discord.gg/uWJ2x5tJuR
 
-So, I know the NoPixel 3.5 inventory update is a very controversial topic for most people. I wasn't a huge fan of it myself at first, but I liked the overall idea and concept behind it. So, here's my own take and spin on the design. This is was made off the awesome inventory [ihyajb](https://github.com/ihyajb) made
 <br>
 
 Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to reach out
 
-In collaboration with [OnlyCats](https://github.com/onlycats) who helped reorganized and also created some custom images.
 # Dependencies
 * [qbcore framework](https://github.com/qbcore-framework)
 * [qb-target](https://github.com/BerkieBb/qb-target)
