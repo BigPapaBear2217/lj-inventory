@@ -1,10 +1,6 @@
-![LJ Inventory](https://user-images.githubusercontent.com/91661118/146313051-665337bf-ed92-4ed0-bbb9-6ee9613f670d.png)
-
-## Color Picking Added!
-
 Join my Discord for updates, support, and special early testing!
 <br>
-https://discord.gg/projectsloth
+https://discord.gg/uWJ2x5tJuR
 
 So, I know the NoPixel 3.5 inventory update is a very controversial topic for most people. I wasn't a huge fan of it myself at first, but I liked the overall idea and concept behind it. So, here's my own take and spin on the design. This is was made off the awesome inventory [ihyajb](https://github.com/ihyajb) made
 <br>
