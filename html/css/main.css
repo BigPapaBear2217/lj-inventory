@@ -287,7 +287,7 @@ body {
     right: 0;
     width: 22vh;
     height: 11vh;
-    background-color: rgba(235, 235, 235, 0.08);
+    background-color: rgba(0, 0, 0, 0.08);
     border: 1px solid rgba(255, 255, 255, 0.01);
     top: 2vh;
 }
@@ -359,7 +359,7 @@ body {
 }
 
 .inv-option-item:hover {
-    background-color: #5c5c6c;
+    background-color: #1f1f22;
 }
 
 .btn-combine {
@@ -807,7 +807,7 @@ body {
     margin: 3px;
     transition: opacity 0.2s;
     opacity: 1.0;
-    background: rgba(35, 34, 56, 0.95);
+    background: rgba(0, 0, 0, 0.95);
     z-index: 9999;
 }
 
