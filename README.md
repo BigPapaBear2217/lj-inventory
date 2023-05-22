@@ -44,13 +44,11 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 #
 
 # Previews
-### Simple guideline psd provided (found in main directory lj-inventory)
-![lj-inventory Guideline](https://user-images.githubusercontent.com/91661118/146315681-c67f542d-e2bc-43ca-9957-7f1971b84268.png)
 ### Full Inventory
 ![full inventory](https://cdn.discordapp.com/attachments/1108038723267985510/1110179487859097680/image.png)
 
 # Credits
-* ihyajb (Aj) for [original version](https://github.com/ihyajb/aj-inventory)
+* loljoshie (LJ) for [original version](https://github.com/loljoshie/lj-inventory)
 
 # Issues and Suggestions
 Please use the GitHub issues system to report issues or make suggestions, when making suggestion, please keep [Suggestion] in the title to make it clear that it is a suggestion.
